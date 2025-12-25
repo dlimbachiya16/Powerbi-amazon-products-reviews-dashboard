@@ -1,5 +1,7 @@
 Amazon Product Reviews – Power BI Dashboard
+
 Overview
+
 This project is an end‑to‑end Amazon product reviews analysis built in Power BI.
 The dashboard explores how pricing, discounts, ratings, and reviewer behavior interact to influence product performance and customer sentiment.
 
@@ -55,3 +57,5 @@ How to Use the Report
     Use slicers (Category, Rating, Price ranges) to filter views.
     Hover over scatter and bar charts for detailed tooltips.
     Drill into specific products or categories to explore underlying patterns.
+
+<img width="1418" height="803" alt="Screenshot 2025-12-25 015802" src="https://github.com/user-attachments/assets/3337f70b-e05f-41e2-9a84-3ee7ae8553ce" />
